@@ -2,9 +2,9 @@
 
 San Jose State University Spring 2021 Semester - Professor Paul
 
-Assignment 1 & 2: Regression
-Assignment 3: Classification
-Assignment 4: Uninformed Search
-Assignment 5: Informed Search (A*)
-Assignment 6: Adversarial Search
-Assignment 7: Bayes 
+Assignment 1 & 2: Regression <br />
+Assignment 3: Classification <br />
+Assignment 4: Uninformed Search <br />
+Assignment 5: Informed Search (A*) <br />
+Assignment 6: Adversarial Search <br /> <br />
+Assignment 7: Bayes  <br />
